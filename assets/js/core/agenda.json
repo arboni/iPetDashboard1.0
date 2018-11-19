@@ -1,0 +1,67 @@
+{"Data":"07/11/2018 08:00",
+	"data":"2018-11-07T08:00:00.000+0000",
+	"id":1,
+	"tipoServico":{
+		"tipoanimal":[{
+			"id":1,"tipo":"Cachorro"},{"id":2,"tipo":"Gato"}],
+
+	"id":2,
+		"description":"Banho"},
+		"petshop":{
+			"id":1,"nome":"Petshop verde",
+			"cnpj":"00000",
+			"endereco":{
+				"id":1,
+				"cidade":{
+					"id":1,"nome":"Porto Alegre",
+					"estado":{
+						"id":1,
+						"nome":"Rio Grande do Sul"}},
+					"logradouro":"Av icarai",
+					"numero":"1377",
+					"complemento":"Casa",
+					"cep":"90910070"},
+					"funcionarios":[{
+						"id":1,
+						"tipoServico":[
+							{"tipoanimal":[
+								{"id":1,
+								"tipo":"Cachorro"},{"id":2,"tipo":"Gato"}],
+						"id":2,
+						"description":"Banho"},
+							{"tipoanimal":[
+								{"id":1,
+								"tipo":"Cachorro"}],
+								"id":1,"description":"Tosa"}],
+								"nome":"Kvothe"},
+									{"id":2,"tipoServico":[],
+									"nome":"Auri"}]},
+									"duracao":2,
+									"valor":10.0,
+									"animal":{
+										"id":1,
+										"nome":"Billy",
+										"peso":"10kg",
+										"tamanho":{
+											"id":3,
+											"description":"Grande"},
+											"tipoAnimal":{
+												"id":1,
+												"tipo":"Cachorro"},
+												"raca":null},
+												"funcionario":{
+													"id":1,
+													"tipoServico":[{
+														"tipoanimal":[{
+															"id":1,
+															"tipo":"Cachorro"},{
+															"id":2,
+															"tipo":"Gato"}],
+															"id":2,
+															"description":"Banho"},{
+																"tipoanimal":[{
+																"id":1,
+																"tipo":"Cachorro"}],
+															"id":1,
+															"description":"Tosa"}],
+															"nome":"Kvothe"}},
